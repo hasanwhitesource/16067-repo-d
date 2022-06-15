@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "github>hasanwhitesource/16067-repo-c:renovate.json"
+  ],
+  "automergeType": "pr"
+}
